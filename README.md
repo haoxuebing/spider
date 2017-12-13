@@ -1,9 +1,9 @@
 # spider 
 
 ### 安装
-git clone https://github.com/haoxuebing/spider.git
-npm install 
-## 运行
+git clone https://github.com/haoxuebing/spider.git  
+npm install  
+### 运行
 node chong.js 
 
 ### 说明
