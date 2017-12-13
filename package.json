@@ -1,0 +1,11 @@
+{
+    "name": "spider",
+    "version": "0.0.1",
+    "description": "一个爬取菜鸟教程的Node.js爬虫",
+    "dependencies": {
+        "bufferhelper": "^0.2.1",
+        "cheerio": "^1.0.0-rc.2",
+        "iconv-lite": "^0.4.19",
+        "thenjs": "^2.0.6"
+    }
+}
